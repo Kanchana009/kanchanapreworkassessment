@@ -76,7 +76,7 @@ default:
 
 System.out.println("Invalid choice. Enter a valid no.\n");
 {
- while (choice != 0);
+ while (a!= 0);
 
 System.out.println("Exited Successfully!!!");
 }
